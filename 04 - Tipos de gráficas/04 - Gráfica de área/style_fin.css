@@ -1,0 +1,13 @@
+svg {
+    border: 1px solid #aaa;
+}
+
+.linea{
+	stroke: Tomato;
+	stroke-width: 4;
+	fill:none;
+}
+
+.area{
+	fill:SkyBlue;
+}	

@@ -1,0 +1,110 @@
+{  
+   "name":"Paises",
+   "children":[  
+      {  
+         "name":"Perú",
+         "children":[  
+            {  
+               "name":"Lima"
+            },
+            {  
+               "name":"Cusco"
+            },
+            {  
+               "name":"Trujillo"
+            },
+            {  
+               "name":"Huancayo"
+            },
+            {  
+               "name":"Ica"
+            }
+         ]
+      },
+      {  
+         "name":"Colombia",
+         "children":[  
+            {  
+               "name":"Bogotá"
+            },
+            {  
+               "name":"Medellín"
+            }
+         ]
+      },
+      {  
+         "name":"Brasil",
+         "children":[  
+            {  
+               "name":"São Paulo"
+            },
+            {  
+               "name":"Río de Janeiro"
+            }
+         ]
+      },
+      {  
+         "name":"República Dominicana",
+         "children":[  
+            {  
+               "name":"Santo Domingo"
+            },
+            {  
+               "name":"Juan Dolio"
+            },
+            {  
+               "name":"Trujillo"
+            },
+            {  
+               "name":"Samaná"
+            },
+            {  
+               "name":"Las Terrenas"
+            },
+            {  
+               "name":"Punta Cana"
+            }
+         ]
+      },
+      {  
+         "name":"México",
+         "children":[  
+            {  
+               "name":"Ciudad de México"
+            },
+            {  
+               "name":"Tabasco"
+            },
+            {  
+               "name":"Monterrey"
+            },
+            {  
+               "name":"Guadalajara"
+            },
+            {  
+               "name":"Chiapas"
+            },
+            {  
+               "name":"Quintana Roo"
+            }
+         ]
+      },
+      {  
+         "name":"Estados Unidos",
+         "children":[  
+            {  
+               "name":"San Francisco"
+            },
+            {  
+               "name":"Los Ángeles"
+            },
+            {  
+               "name":"San Antonio"
+            },
+            {  
+               "name":"Tampa Bay"
+            }
+         ]
+      }
+   ]
+}

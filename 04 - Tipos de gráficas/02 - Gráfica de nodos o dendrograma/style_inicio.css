@@ -1,0 +1,19 @@
+svg {
+    border: 1px solid #aaa;
+}
+
+.node circle {
+  fill: white;
+  stroke:  YellowGreen ;
+  stroke-width: 1.5px;
+}
+
+.node {
+  font: 10px Helvetica;
+}
+
+.link {
+  fill: none;
+  stroke: Wheat ;
+  stroke-width: 1.5px;
+}

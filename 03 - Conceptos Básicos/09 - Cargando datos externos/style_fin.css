@@ -1,0 +1,13 @@
+svg {
+    border: 1px solid #aaa;
+}
+
+rect {
+    fill: SteelBlue;
+}
+
+text {
+    font-family: helvetica;
+    font-size: 10px;
+    text-anchor: middle;
+}

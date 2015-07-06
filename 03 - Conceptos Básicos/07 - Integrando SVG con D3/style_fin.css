@@ -1,0 +1,11 @@
+svg{
+	width: 1000px;
+	height: 300px;
+	border: 1px solid #aaa;
+}
+
+circle{
+	fill: blue;
+	stroke: orange;
+	stroke-width: 5px;
+}
